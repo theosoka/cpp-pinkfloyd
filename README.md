@@ -1,2 +1,2 @@
 # pjcpf
-pjc-project-1-pink-floyd
+first project pjc, animation pink floyd
